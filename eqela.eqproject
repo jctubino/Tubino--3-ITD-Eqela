@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# jc2
+#
+
+projectname: jc2
+vendorid: com.jc.sample
+mainmodule: com.jc.sample.jc2
